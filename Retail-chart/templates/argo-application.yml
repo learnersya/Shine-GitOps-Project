@@ -14,7 +14,7 @@ spec:
         userprofile:
           activeVersion: blue
   destination:
-    server: https://syamili-cluster-test-dns-t8wwe8ts.hcp.canadacentral.azmk8s.io
+    server: https://syamili-cluster-test-dns-t8wwe8ts.hcp.canadacentral.azmk8s.io:443
     namespace: retail
   syncPolicy:
     automated:
